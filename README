@@ -2,3 +2,6 @@ Kaggle Facial Expression Recognition 2013
 Author: Nguyen Hai Duong
 
 Using CNN with TensorFlow
+
+Note: you can download the dataset and the trained model file from here:
+https://drive.google.com/open?id=0BxINLo5jshCRbXpRcnl2SjJkdlk
